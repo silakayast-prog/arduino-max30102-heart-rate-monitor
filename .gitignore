@@ -1,0 +1,11 @@
+# Compiled binaries
+*.hex
+*.elf
+*.bin
+
+# Build artifacts
+build/
+.arduino/
+.vscode/
+*.orig
+*.tmp
